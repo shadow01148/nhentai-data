@@ -1,2 +1,2 @@
-# geegee
+# /g/
  random bullshit go
