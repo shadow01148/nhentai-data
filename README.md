@@ -6,5 +6,6 @@
  # TODO
  
  better multiprocessing
+ /
  try and make the code work on colab
  
