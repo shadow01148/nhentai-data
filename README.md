@@ -5,7 +5,7 @@
  
  # TODO
  
- better multiprocessing
- /
+ better multiprocessing ;
+ 
  try and make the code work on colab
  
