@@ -5,7 +5,6 @@
  
  # TODO
  
- better multiprocessing ;
+ proxies
  
- try and make the code work on colab
  
