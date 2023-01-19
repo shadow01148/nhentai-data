@@ -5,7 +5,7 @@
 ## This repository contains:
 weird shit
 \
-,278 doujins - Nothing censored, everything included (wtf)
+225,278 doujins - Nothing censored, everything included (wtf)
 
 
 
