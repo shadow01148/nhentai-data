@@ -5,7 +5,13 @@
 ## This repository contains:
 weird shit
 \
-225,278 doujins - Nothing censored, everything included (wtf)
+data taken from data science stuff
+\
+225,278 doujins - FILTERED
+\
+516,244 doujins - UNFILTERED
+\
+895,786 doujins + other stuff - TOTAL
 
 
 
