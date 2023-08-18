@@ -8,11 +8,6 @@ weird shit
 data taken from data science stuff
 \
 225,278 doujins - FILTERED
-\
-516,244 doujins - UNFILTERED
-\
-895,786 doujins + other stuff - TOTAL
-
 
 
 
